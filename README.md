@@ -1,4 +1,4 @@
-# 📈 Time Series Modeling to Forecast Active Users on a Website Over Time
+# 📈 Forecasting Website Active Users with Time Series Modeling
 
 This repository contains an educational project focused on time series modeling to forecast the number of active users on a website over time. Using simulated or sample data, the project demonstrates step-by-step how to analyze, visualize, and model time series data with Python.
 
